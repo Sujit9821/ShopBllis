@@ -3,7 +3,7 @@
 **Overview:**
 ShopBllis is a comprehensive e-commerce and shopping cart application built entirely from scratch using the MERN (MongoDB, Express, React, Node.js) stack. It offers a wide range of features designed to enhance the shopping experience for both customers and administrators.
 
-
+![shop](https://github.com/Roy9821/ShopBllis/assets/110605476/4b7a7ba9-bfe2-4347-ba61-6ef539187e8d)
 
 ## Key Features
 
