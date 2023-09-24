@@ -1,0 +1,31 @@
+{
+  "name": "shopbllis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "sks.oficial9821@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "@sendgrid/mail": "*",
+    "bcrypt": "*",
+    "braintree": "^3.17.0",
+    "colors": "*",
+    "concurrently": "*",
+    "cors": "*",
+    "dotenv": "*",
+    "express": "*",
+    "express-formidable": "*",
+    "jsonwebtoken": "*",
+    "mongoose": "*",
+    "morgan": "*",
+    "nodemon": "*",
+    "react-icons": "*",
+    "slugify": "*"
+  }
+}
