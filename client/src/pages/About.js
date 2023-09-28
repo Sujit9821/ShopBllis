@@ -14,12 +14,13 @@ const About = () => {
         </div>
         <div className="col-md-4">
           <p className="text-justify mt-2">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
-            officiis obcaecati esse tempore unde ratione, eveniet mollitia,
-            perferendis eius temporibus dicta blanditiis doloremque explicabo
-            quasi sunt vero optio cum aperiam vel consectetur! Laborum enim
-            accusantium atque, excepturi sapiente amet! Tenetur ducimus aut
-            commodi illum quidem neque tempora nam.
+          <h1>Welcome to ShopBlliss - Your Ultimate Shopping Destination</h1>
+<card>
+At ShopBliss, we are dedicated to providing you with an unparalleled shopping experience. 
+Our commitment to quality, convenience, and customer satisfaction is at the core of everything we do. 
+Explore our website and discover a world of products that cater to your every need and desire.
+</card>
+
           </p>
         </div>
       </div>
